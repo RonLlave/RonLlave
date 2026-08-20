@@ -127,25 +127,6 @@ I use AI confidently across all of my professional work. Claude Code drives my d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RonLlave&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonLlave&layout=compact&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=RonLlave&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RonLlave&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
